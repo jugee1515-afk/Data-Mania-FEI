@@ -1,5 +1,5 @@
 Participantes:
-Juarez Garcia Eidan Enrique, Martinez Mendez Angel, Uscanga Guiterrrez Dalida Abigail 
+Juarez Garcia Eidan Enrique, Martinez Mendez Angel, Uscanga Guiterrrez Dalia Abigail 
 
 Obtuvimos data sets de la pagina de la  Comisión Nacional de Agua y el Sistema Meteorológico Nacional dentro del apartado de la información estadística climatológica donde se descargaron 5 data sets de los 5 puntos que tiene para recolectar información como fecha, precipitación, evaporación, temperatura máxima y mínima dentro de Mérida, Yucatán que se recolectan diariamente desde el año de 1961. La base contiene las coordenadas de cada trampa, la estación que son centros de recolección de la CONAGUA, decidimos utilizar estas estaciones debido a que no todos los lugares con trampa tienen las mismas condiciones climatológicas, se buscaron las distancias mínimas para cada coordenada y se obtuvieron los promedios de cada zona, para clasificarlos.
 
